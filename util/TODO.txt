@@ -1,0 +1,7 @@
+- Doc au format scala-doc 
+	https://wiki.scala-lang.org/display/SW/Introduction
+	https://wiki.scala-lang.org/display/SW/Syntax
+- Root doc 
+	https://wiki.scala-lang.org/display/SW/Configuring+SBT+to+Generate+a+Scaladoc+Root+Page
+
+- Equal pour Iterable

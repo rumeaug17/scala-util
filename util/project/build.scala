@@ -21,8 +21,3 @@ object CommonBuild {
   )
 }
 
-object EulerBuild extends Build {
-
-  lazy val root = Project("root", file(".") ) 
-
-}
